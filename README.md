@@ -1,41 +1,71 @@
-<h1>Hi, I'm Seth! <a href="https://www.linkedin.com/in/seth-suri-98b461184/">Cybersecurity Professional</a>
+# Welcome to My GitHub Profile 👋
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Hello! I'm Seth Suri, an IT Analyst, and Certified Professional passionate about technology, cybersecurity, and empowering others. Welcome to my corner of the internet!
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - Active Directory Home Lab(https://github.com/joshmadakor1/LABURL)
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## 🚀 About Me
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- **Profession:** IT Analyst and Brand Ambassador with extensive experience in IT and cybersecurity.
+- **Certifications:**
+  - Sophos Certified Technician (Firewall and Endpoint)
+  - Google IT Support Professional Certificate
+  - Google Cybersecurity Certificate
+- **Current Roles:**
+  - IT Analyst
+  - Brand Ambassador for SecureNexa
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🔗 Connect with Me
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+Feel free to reach out or follow me on this platform:
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 [LinkedIn](https://www.linkedin.com/in/seth-suri-98b461184/)  
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cybersecurity:** Endpoint protection, Firewall configuration
+- **Tech Stack:** [e.g., Google Workspace, Sophos Central, ITSM Tools]
+- **Leadership:** Team building and public speaking
+
+---
+
+## 🌟 Featured Projects
+
+Here are some of the projects I’m proud of:
+
+1. **[Project Name](https://github.com/your-repo)** - Brief description of what this project does or solves.
+2. **[Project Name](https://github.com/your-repo)** - Another example showcasing your expertise or interests.
+
+---
+
+## 📝 Certifications
+
+You can view my certifications below:
+
+- [Sophos Certified Technician (Firewall and Endpoint)](https://example-link-to-cert)
+- [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MCM7AGH9RAS8)
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/UCCG6FDCVRBV)
+- [Google UX Design Certificate](https://www.coursera.org/account/accomplishments/specialization/NBRN7GNGYSGV)
+---
+
+## 🌱 Current Goals
+
+- Expand my expertise in advanced cybersecurity.
+- Contribute to open-source projects related to faith and technology.
+- Publish a devotional book blending spiritual growth with modern technology.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and get in touch if you’d like to collaborate or discuss opportunities.
+
+> "Faith and technology, together, can shape a better tomorrow."
+
+---
+
+![](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+
+### ✨ Let's Connect!
+
