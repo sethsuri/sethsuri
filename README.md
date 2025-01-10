@@ -45,7 +45,8 @@ Here are some of the projects I’m proud of:
 
 You can view my certifications below:
 
-- [Sophos Certified Technician (Firewall and Endpoint)](https://example-link-to-cert)
+- [Sophos Certified Technician (Firewall)](https://sophos.netexam.com/certs/11017/F7C170C9977343C08562758D074788CA161664.pdf)
+- [Sophos Certified Technician (Endpoint)](https://sophos.netexam.com/certs/11017/F7C170C9977343C08562758D074788CA161662.pdf)
 - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/MCM7AGH9RAS8)
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/UCCG6FDCVRBV)
 - [Google UX Design Certificate](https://www.coursera.org/account/accomplishments/specialization/NBRN7GNGYSGV)
@@ -54,14 +55,11 @@ You can view my certifications below:
 ## 🌱 Current Goals
 
 - Expand my expertise in advanced cybersecurity.
-- Contribute to open-source projects related to faith and technology.
-- Publish a devotional book blending spiritual growth with modern technology.
+- Contribute to open-source projects related to technology.
 
 ---
 
 Thanks for stopping by! Feel free to explore my repositories and get in touch if you’d like to collaborate or discuss opportunities.
-
-> "Faith and technology, together, can shape a better tomorrow."
 
 ---
 
