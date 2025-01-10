@@ -78,7 +78,5 @@ Thanks for stopping by! Feel free to explore my repositories and get in touch if
 
 ---
 
-![](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-
 ### ✨ Let's Connect!
 
