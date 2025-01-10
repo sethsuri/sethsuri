@@ -37,7 +37,7 @@ Feel free to reach out or follow me on this platform:
 Here are some of the projects I’m proud of:
 
 1. **[Risk Assessment Presentation for the EEC](https://drive.google.com/file/d/1huxKOGL6xkLtoJL0vAzIG0yasi3WP8kw/view?usp=drive_link)** - This presentation was part of the project that landed me my first cybersecurity role. It provides an analysis, and operational plan for how we can strengthen the Entrepreneurial & Education Center's security posture.
-2. **[Risk Assessment Client Identification for the EEC](https://drive.google.com/file/d/1aAt79os-KkXPA5Flfie-ceY9BNv_h-i9/view?usp=drive_link)** - This document is the client identification and Security risk assessment report for the Entrepreneurial & Education Center.
+2. **[Risk Assessment and Client Identification Document for the EEC](https://drive.google.com/file/d/1aAt79os-KkXPA5Flfie-ceY9BNv_h-i9/view?usp=drive_link)** - This document is the client identification and Security risk assessment report for the Entrepreneurial & Education Center.
 3. **[Small Business Presentation for SecureNexa](https://drive.google.com/file/d/1z7bb7epe2b187xCN306CrGfKWX3CShJE/view?usp=drive_link)** - This presentation is what our company uses to educate businesses on the need for cybersecurity.
 4. **[University Presentation for SecureNexa](https://drive.google.com/file/d/1HxZzTnCmU4KhaQl3HWi_okFr0QZuQb_E/view?usp=drive_link)** - This presentation is what our company uses to educate universities on the need for cybersecurity.
 5. **[K-12 Schools Presentation for SecureNexa](https://drive.google.com/file/d/1LFa9PN8wxoE_Ae7KQMO_VRUYZBHxni0s/view?usp=drive_link)** - This presentation is what our company uses to educate K-12 Schools on the need for cybersecurity.
@@ -45,6 +45,16 @@ Here are some of the projects I’m proud of:
 7. **[Individual Presentation for SecureNexa](https://drive.google.com/file/d/1HRyk4XO0DkP4miir5-SEzZ4NdKuCJHeG/view?usp=drive_link)** - This presentation is what our company uses to educate individuals on the need for cybersecurity.
 
 ---
+
+## 🌟 Video Projects
+
+Here are some of the video projects I’m proud of:
+
+1. **[Small Business Presentation for SecureNexa](https://drive.google.com/file/d/1sS4ozILvRvX2rsRg4UqnjOjZFYsKUihD/view?usp=drive_link)** - This presentation is what our company uses to educate businesses on the need for cybersecurity.
+2. **[University Presentation for SecureNexa](https://drive.google.com/file/d/1dNdsYQUfrXk4ovNFiyvPCb6IiByCQu9W/view?usp=drive_link)** - This presentation is what our company uses to educate universities on the need for cybersecurity.
+3. **[K-12 Schools Presentation for SecureNexa](https://drive.google.com/file/d/1nOUWo55EzZM1EKnRL6JrU5WsxyoOJdge/view?usp=drive_link)** - This presentation is what our company uses to educate K-12 Schools on the need for cybersecurity.
+4. **[Home Presentation for SecureNexa](https://drive.google.com/file/d/1FDZyITN5Pzl5OB_fTut2HrLv_QGpjGZx/view?usp=drive_link)** - This presentation is what our company uses to educate families on the need for cybersecurity.
+5. **[Individual Presentation for SecureNexa](https://drive.google.com/file/d/1r88TZgk_B2y3wUOmwAr2zNE9AOWgGG0l/view?usp=drive_link)** - This presentation is what our company uses to educate individuals on the need for cybersecurity.
 
 ## 📝 Certifications
 
