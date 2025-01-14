@@ -27,7 +27,7 @@ Feel free to reach out or follow me on this platform:
 ## 🛠️ Skills & Tools
 
 - **Cybersecurity:** Endpoint protection, Firewall configuration
-- **Tech Stack:** [e.g., Google Workspace, Sophos Central, ITSM Tools]
+- **Tech Stack:** [e.g., Google Workspace, Sophos Central, ITSM Tools and Hack The Box]
 - **Leadership:** Team building and public speaking
 
 ---
