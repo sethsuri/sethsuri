@@ -36,7 +36,7 @@ Feel free to reach out or follow me on this platform:
 
 Here are some of the projects I’m proud of:
 
-1. **[Active Directory HomeLab] (https://drive.google.com/file/d/1huxKOGL6xkLtoJL0vAzIG0yasi3WP8kw/view?usp=drive_link)
+1. **[Active Directory HomeLab] (https://github.com/sethsuri/ActiveDirectoryLab/blob/main/README.md)
 2. **[Risk Assessment Presentation for the EEC](https://drive.google.com/file/d/1huxKOGL6xkLtoJL0vAzIG0yasi3WP8kw/view?usp=drive_link)** - This presentation was part of the project that landed me my first cybersecurity role. It provides an analysis, and operational plan for how we can strengthen the Entrepreneurial & Education Center's security posture.
 3. **[Risk Assessment and Client Identification Document for the EEC](https://drive.google.com/file/d/1aAt79os-KkXPA5Flfie-ceY9BNv_h-i9/view?usp=drive_link)** - This document is the client identification and Security risk assessment report for the Entrepreneurial & Education Center.
 4. **[Small Business Presentation for SecureNexa](https://drive.google.com/file/d/1z7bb7epe2b187xCN306CrGfKWX3CShJE/view?usp=drive_link)** - This presentation is what our company uses to educate businesses on the need for cybersecurity.
