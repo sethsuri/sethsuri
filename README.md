@@ -34,9 +34,14 @@ Feel free to reach out or follow me on this platform:
 
 ## ⚠️ Vulnerability Management Projects
 
-Here are some of the projects I’m proud of:
-
 1. **[Vulnerability Management Program Implementation](https://github.com/sethsuri/vulnerabilitymanagementprogram)**
+
+---
+
+## 🚨 Threat Hunting and Security Operations
+
+1. **[Vulnerability Management Program Implementation](https://github.com/sethsuri/threat-hunting-scenario-tor)**
+
 ---
 
 ## 🌟 Featured Projects
