@@ -32,7 +32,7 @@ Feel free to reach out or follow me on this platform:
 
 ---
 
-## 🌟 Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
 Here are some of the projects I’m proud of:
 
