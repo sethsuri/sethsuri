@@ -40,7 +40,7 @@ Feel free to reach out or follow me on this platform:
 
 ## 🚨 Threat Hunting and Security Operations
 
-1. **[Vulnerability Management Program Implementation](https://github.com/sethsuri/threat-hunting-scenario-tor)**
+1. **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/sethsuri/threat-hunting-scenario-tor)**
 
 ---
 
