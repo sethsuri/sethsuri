@@ -35,6 +35,7 @@ Feel free to reach out or follow me on this platform:
 ## ⚠️ Vulnerability Management Projects
 
 1. **[Vulnerability Management Program Implementation](https://github.com/sethsuri/vulnerabilitymanagementprogram)**
+2. **[Fake Job Scam Email](https://github.com/sethsuri/Fake-Job-Scam-Email)** 
 
 ---
 
