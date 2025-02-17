@@ -6,7 +6,7 @@ Hello! I'm Seth Suri, an IT Analyst, and Certified Professional passionate about
 
 ## 🚀 About Me
 
-- **Profession:** IT Analyst and Brand Ambassador with extensive experience in IT and cybersecurity.
+- **Profession:** Cybersecurity Support Engineer, IT Analyst and Brand Ambassador with extensive experience in cybersecurity and IT.
 - **Certifications:**
    - Google IT Support Professional Certificate (CompTIA A+ equivalent)
    - Google Cybersecurity Professional Certificate (CompTIA Security+ & CySA+ equivalent)
