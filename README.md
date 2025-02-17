@@ -8,12 +8,15 @@ Hello! I'm Seth Suri, an IT Analyst, and Certified Professional passionate about
 
 - **Profession:** IT Analyst and Brand Ambassador with extensive experience in IT and cybersecurity.
 - **Certifications:**
-  - Sophos Certified Technician (Firewall and Endpoint)
-  - Google IT Support Professional Certificate
-  - Google Cybersecurity Certificate
+   - Google IT Support Professional Certificate (CompTIA A+ equivalent)
+   - Google Cybersecurity Professional Certificate (CompTIA Security+ & CySA+ equivalent)
+   - Sophos Endpoint Technician (CompTIA Security+ & SC-200 equivalent)
+   - Sophos Firewall Technician (CompTIA Network+ & Fortinet NSE 4 equivalent)
+   - Tenable.io / Tenable.sc Certified (CompTIA Security+, CVA & CySA+ equivalent)
+
 - **Current Roles:**
-  - IT Analyst
-  - Brand Ambassador for SecureNexa
+  - Cyber Security Support Engineer For LOG(N) Pacific
+  - IT Analyst and Brand Ambassador for SecureNexa
 
 ---
 
