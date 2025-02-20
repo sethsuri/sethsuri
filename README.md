@@ -41,6 +41,7 @@ Feel free to reach out or follow me on this platform:
 2. **[Fake Job Scam Email](https://github.com/sethsuri/Fake-Job-Scam-Email)**
 3. **[Utilizing Splunk and HackThisSite](https://github.com/sethsuri/Splunk-Site-Hacking/blob/main/README.md)**
 4. **[Cybersecurity Incident Response](https://github.com/sethsuri/Cybersecurity_IncidentResponse)**
+5. **[Vulnerability Management Policy](https://github.com/sethsuri/Vulnerability-Managment-Policy)**
 
 ---
 
