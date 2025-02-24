@@ -1,12 +1,12 @@
 # Welcome to My GitHub Profile 👋
 
-Hello! I'm Seth Suri, an IT Analyst, and Certified Professional passionate about technology, cybersecurity, and empowering others to use tech to safegaurd their lives! Welcome to my corner of the internet!
+Hello! I'm Seth Suri, an Cybersecurity Analyst, and Certified Professional passionate about technology, cybersecurity, and empowering others to use tech to safegaurd their lives! Welcome to my corner of the internet!
 
 ---
 
 ## 🚀 About Me
 
-- **Profession:** Cybersecurity Support Engineer, IT Analyst and Brand Ambassador with extensive experience in cybersecurity and IT.
+- **Profession:** Cybersecurity Support Engineer, IT Security Analyst and Brand Ambassador with extensive experience in cybersecurity and IT.
 - **Certifications:**
    - Google IT Support Professional Certificate (CompTIA A+ equivalent)
    - Google Cybersecurity Professional Certificate (CompTIA Security+ & CySA+ equivalent)
