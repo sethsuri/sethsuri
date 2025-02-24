@@ -42,6 +42,7 @@ Feel free to reach out or follow me on this platform:
 3. **[Utilizing Splunk and HackThisSite](https://github.com/sethsuri/Splunk-Site-Hacking/blob/main/README.md)**
 4. **[Cybersecurity Incident Response](https://github.com/sethsuri/Cybersecurity_IncidentResponse)**
 5. **[Vulnerability Management Policy](https://github.com/sethsuri/Vulnerability-Managment-Policy)**
+6. **[Pre-Distribution Email](https://github.com/sethsuri/Remediation-Email/blob/main/README.md)**
 
 ---
 
